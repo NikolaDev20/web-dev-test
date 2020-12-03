@@ -1,0 +1,1 @@
+<a href="{{$link}} ">You just got the comment on this article</a>
